@@ -4,7 +4,7 @@ so far this is only a basic login system
 
 ### Prerequisites
 
-* windows[XAMPP] - Apache web server\
+* windows[XAMPP] - Apache web server
 * maq [WAMP] - Apache web server
 
 ## inspired by
