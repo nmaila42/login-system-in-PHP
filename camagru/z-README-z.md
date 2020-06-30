@@ -7,7 +7,7 @@ Create a website similar to instagram
 * maq [WAMP] - Apache web server
 
 ## inspired by
-* [mmtuts](How to create a complete login system in PHP | PHP tutorial | Learn PHP programming) - https://www.youtube.com/watch?v=xb8aad4MRx8&t=4765s
+* [mmtuts](How to create a complete login system in PHP | PHP tutorial | Learn PHP programming)
 
 ## Authors
 NMAILA -Maila Portrait
